@@ -5,8 +5,8 @@
 
 
    home.md
-   makecode.md
-   python.md
+   makecode/makecode.md
+   python/python.md
 
 
 
