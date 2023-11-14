@@ -51,19 +51,19 @@ Makecode online editor first, save code again then download it to micro:bit.**
 ## Product Kit
 |     |      |    |    |
 | --  | --   | -- |        --         |                                  
-| 1                   | Keyestudio Micro:bit Mini Smart Robot Car Shield V2 (Black and Eco-friendly) | 1       | ![](makecode/media/c59320656db3ef33f904aba2cebe8104.png)                                                                                                                                                                                                                                                                                                                                        |
+| 1                   |  Micro:bit Mini Smart Robot Car Shield V2  | 1       | ![](makecode/media/c59320656db3ef33f904aba2cebe8104.png)                                                                                                                                                                                                                                                                                                                                        |
 | 2                    | HC-SR04 Ultrasonic Sensor                                                    | 1       | ![](makecode/media/7d1365ccda9dfeff4ba6624f9413877c.png)                                                                                                                                                                                                                                                                                                                                         |
 | 3                    | KEYES-2812-18R Module（welded with yellow curved pin）                       | 1       | ![](makecode/media/75a3a53f6230d6adc83af7caca154c03.png)                                                                                                                                                                                                                                                                                                                                        |
-| 4                    | KS0426 doesn’t include  the micro：bit                                       | 0       | ![](makecode/media/f499db4caac65277ceac4615fcfd7919.png)                                                                                                                                                                                                                                                                  |
+| 4                    | KS0426 doesn’t include  the microbit                                       | 0       | ![](makecode/media/f499db4caac65277ceac4615fcfd7919.png)                                                                                                                                                                                                                                                                  |
 |                      | KS4019 has the micro：bit                                                    | 1       |                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Other Parts**      |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
 | 4                    | Acrylic Pack of 3 Pieces T=3MM                                               | 1       | ![](makecode/media/dea0ff702caa351d08680f50991c5ea5.png)                                                                                                                                                                                                                       |
 | 5                    | N20 Motor Wheel                                                              | 2       | ![](makecode/media/401c266d4f7828b0087fcdae7b75664d.png)                                                                                                                                                                                                                                                                                                                                        |
-| 6                    | Steel Universal Wheel W22\*H15MM                                             | 1       | ![](makecode/media/8a89cf0066a0982aba60f9df94e0d108.png)                                                                                                                                                                                                                                                                                                                                         |
+| 6                    | Steel Universal Wheel W22*H15MM                                             | 1       | ![](makecode/media/8a89cf0066a0982aba60f9df94e0d108.png)                                                                                                                                                                                                                                                                                                                                         |
 | 7                    | Insulation Gasket                                                            | 3       | ![](makecode/media/f057a723df8ee517cd5c0dfe0804ed40.png)                                                                                                                                                                                                                                   |
-| 8                    | USB Cable A/MICRO OD: 4.0 black L=1.2m eco-friendly                          | 1       | ![](makecode/media/58215d477756bb5d00a820ec35212860.png)                                                                                                                                                                                                                                                                                                                                        |
-| 9                    | Male to Female Jumper Wire 10CM Random Color                                 | 3       | ![](makecode/media/2f212634a5375485d53417c7c4211065.png)                                                                                                                                                                                                                                                                                                                                   |
-| 10                   | Male to Female Jumper Wire 15CM Random Color                                 | 4       | ![](makecode/media/3098fcbb361f77ebf780cef5fd08f776.png)                                                                                                                                                                                                                                                                                                                                   |
+| 8                    | USB Cable                         | 1       | ![](makecode/media/58215d477756bb5d00a820ec35212860.png)                                                                                                                                                                                                                                                                                                                                        |
+| 9                    | Male to Female Jumper Wire 10CM                                  | 3       | ![](makecode/media/2f212634a5375485d53417c7c4211065.png)                                                                                                                                                                                                                                                                                                                                   |
+| 10                   | Male to Female Jumper Wire 15CM                                  | 4       | ![](makecode/media/3098fcbb361f77ebf780cef5fd08f776.png)                                                                                                                                                                                                                                                                                                                                   |
 |  **Screws and Nuts** |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
 | 11                   | M1.6\*10MM Round Head Screw                                                  | 8       | ![](makecode/media/dd8c8e093cad90c20223bbb4201a8a84.png)                                                                                                                                                                                                                                                                                   |
 | 12                   | M3\*6MM Round Head Screw                                                     | 8       | ![](makecode/media/4684fbb52f1a1792575135d322e8ba56.png)                                                                                                                                                                                                                                                                                                                                         |
@@ -77,12 +77,12 @@ Makecode online editor first, save code again then download it to micro:bit.**
 | **Tools**            |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
 | 20                   | 3\*40MM Cross Screw Driver                                                   | 1       | ![](makecode/media/46a93a6e7cb420fe3f0c4f0e09c2f739.png)                                                                                                                                                                                                                                                                                                                                         |
 | 21                   | Map                                                                          | 1       | ![](makecode/media/cd0cfc34fe82e88dc9b146f6f227dce1.png)                                                                                                                                                                                                                                                                                                                                          |
-| 22                   | 2\*40MM Screw Driver                                                         | 1       | ![](makecode/media/2f8ee1756b6ef39b73bda1f0a8f40aa5.png)                                                                                                                                                                                                                                                                                                                                          |
+| 22                   | 2*40MM Screw Driver                                                         | 1       | ![](makecode/media/2f8ee1756b6ef39b73bda1f0a8f40aa5.png)                                                                                                                                                                                                                                                                                                                                          |
 
 ## Micro:bit
 
 Micro:bit, created by the BBC, aims at helping kids over 11 to gain insight to
-programming. It is home to abundant resources like a 5\*5 LED, two programmable
+programming. It is home to abundant resources like a 5*5 LED, two programmable
 buttons, compass, Micro USB port and Bluetooth module. It is the half size of
 credit card, but mighty. Additionally, it can applied to video games, robots,
 science experiments and so on.
@@ -200,7 +200,7 @@ Show the working status of keyestudio micro:bit smart car.
 Note: Peel the plastic film off the board first when installing the smart car.
 To be honest, we never intend to send wood to you.
 
-1.  Install base plate of micro:bit mini smart car
+  Install base plate of micro:bit mini smart car
 
 (Take out the two self-tapping screws of universal wheels first, we provide the
 2 pcs longer self-tapping screws to replace them, and don’t screw them too
@@ -210,7 +210,7 @@ tightly）
 
 ![](makecode/media/71b56f02ef45948d3894ad109e43f93f.png)
 
-1.  Mount the top board of micro:bit smart car
+  Mount the top board of micro:bit smart car
 
 （Note：Install it after peeling off the protective film on acrylic board.)
 
@@ -224,7 +224,7 @@ tightly）
 
 ![](makecode/media/279e8fe7316b71dec009f40b0d545bc1.png)
 
-1.  Wiring
+  Wiring
 
 | Sensors/modules            | Pins | Shield |
 |----------------------------|------|--------|
@@ -240,7 +240,7 @@ tightly）
 
 ![](makecode/media/4a80b19ba5b7fe13158b7f7f91ad3f03.png)
 
-1.  Install Micro:bit Board
+  Install Micro:bit Board
 
 ![](makecode/media/9e328d9fe311e82ca81c65e766451689.png)
 
