@@ -444,9 +444,9 @@ If the code is correct, connect micro:bit to computer and click“Flash”to dow
 
 **Test Result：**
 
-Download code 1 to micro:bit and keep USB cable connected , we will see the<img src="media/d4e278da768e447ed344d581e671f57a.png" style="zoom:50%;" /> icon.
+Download code 1 to micro:bit and keep USB cable connected , we will see the![](media/d4e278da768e447ed344d581e671f57a.png) icon.
 
-Download code 2. Micro: bit starts showing number 1, 2, 3, 4, and 5, then cyclically display<img src="media/d4e278da768e447ed344d581e671f57a.png" style="zoom:50%;" />,“Hello!”, <img src="media/66b31365d42274ef94ce9a3fcea1cd6c.png" style="zoom:50%;" />,<img src="media/39fe4029acb5fb675d875c58e382d148.png" alt="IMG_256" style="zoom:50%;" />,<img src="media/45fcde65eb80a942d3903e400a346587.png" style="zoom:50%;" />,<img src="media/9e34fdb19d72918bde242994a3c94c1f.png" style="zoom:50%;" /> and<img src="media/2a45fca9d836ce38674c347c70c81e02.png" style="zoom:50%;" />patterns.
+Download code 2. Micro: bit starts showing number 1, 2, 3, 4, and 5, then cyclically display![](media/d4e278da768e447ed344d581e671f57a.png),“Hello!”, ![](media/66b31365d42274ef94ce9a3fcea1cd6c.png),![](media/39fe4029acb5fb675d875c58e382d148.png),![](media/45fcde65eb80a942d3903e400a346587.png),![](media/9e34fdb19d72918bde242994a3c94c1f.png) and![](media/2a45fca9d836ce38674c347c70c81e02.png)patterns.
 
 **Code Explanation：**
 
@@ -692,7 +692,7 @@ If the code is correct, connect micro:bit to computer and click“Flash”to dow
 **Test Result**
 
 Upload the code 2 plug in micro:bit via USB cable, when the ambient temperature is less than 35℃, 5\*5LED will
-show<img src="media/4b1765e12b413dc5d562f2a16d32392f.png" style="zoom:50%;" />. When the temperature is equivalent to or greater than 35℃, the pattern<img src="media/f2705fbc4886efcfaac96589ca255f66.png" style="zoom:50%;" /> will appear.
+show![](media/4b1765e12b413dc5d562f2a16d32392f.png). When the temperature is equivalent to or greater than 35℃, the pattern![](media/f2705fbc4886efcfaac96589ca255f66.png) will appear.
 
 **Code Explanation：**
 
@@ -767,7 +767,7 @@ Transfer code 1 to micro:bit, plug in micro:bit via USB cable and press button A
 
 ![1(5)](media/acf3b8c0dee027d9e555fc708831f874.jpeg)
 
-The calibration is finished until you view the smile pattern<img src="media/a4faf86fb027b2f4c3dacaeee5d47d2b.png" alt="IMG_256" style="zoom:50%;" />appear.
+The calibration is finished until you view the smile pattern![](media/a4faf86fb027b2f4c3dacaeee5d47d2b.png)appear.
 
 The serial monitor will show 0°, 90°, 180°and 270° when pressing A.
 
