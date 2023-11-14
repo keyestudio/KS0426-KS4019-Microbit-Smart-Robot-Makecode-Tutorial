@@ -48,7 +48,7 @@ Makecode online editor first, save code again then download it to micro:bit.**
 
 6.  Environmental attributes: ROHS
 
-## Product Kit
+## Kit list
 |     |      |    |    |
 | --  | --   | -- |        --         |                                  
 | 1                   |  Micro:bit Mini Smart Robot Car Shield V2  | 1       | ![](makecode/media/c59320656db3ef33f904aba2cebe8104.png)                                                                                                                                                                                                                                                                                                                                        |
