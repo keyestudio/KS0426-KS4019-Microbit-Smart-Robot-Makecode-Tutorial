@@ -1,251 +1,9 @@
-# **KS0426 KS4019 Keyestudio Micro: bit Mini Smart Robot Car Kit V2**
+# Makecode Tutorial
 
 ![](media/758709e88f83d841a93103a528cae849.png)
 
-# 1.Description
 
-Micro:bit is significantly applied to STEM education for teenagers, as a small
-microcontroller, which features small in size, easy to carry, and powerful
-function. At present, innovative technology products, like robots, wearable
-devices and interactive electronic games can be produced by programming and
-code.
-
-In this kit, we will guide you how to control and generate a Micro:bit turtle
-smart car through programming in Makecode.
-
-[MakeCode](https://makecode.com/) is a framework for creating interactive and
-engaging programming experiences for those new to the world of programming. The
-platform provides the foundation for a tailored coding experience to create and
-run user programs on actual hardware or in a simulated target.
-
-To make you deeply know the micro:bit, we provide test code and projects.
-
-The Keyestudio micro:bit smart car integrates obstacle avoidance, line tracking
-and IR and Bluetooth control functions. It contains passive buzzer, ultrasonic
-sensor, KEYES-2812-18R module, IR obstacle avoidance sensor and so on.
-
-The passive buzzer makes music play, a KEYES-2812-18R module can display
-different effects, a photoresistor can detect light intensity.
-
-Simultaneously, this smart car is chargeable. You only connect power to the port
-of battery holder.
-
-**When doing experiment with latest micro:bit, you need to transfer code into
-Makecode online editor first, save code again then download it to micro:bit.**
-
-# 2.Specifications
-
-1.  Voltage: DC 5V
-
-2.  Current: USB power supply or power supply with a capacity greater than or
-    equal to 2A
-
-3.  Maximum power: maximum output power is 10W
-
-4.  Operating temperature range: 0-50 degrees Celsius
-
-5.  Dimensions: 120\*90.7mm
-
-6.  Environmental attributes: ROHS
-
-# 3.Product Kit
-                                        
-| 1                    | Keyestudio Micro:bit Mini Smart Robot Car Shield V2 (Black and Eco-friendly) | 1       | ![](media/c59320656db3ef33f904aba2cebe8104.png)                                                                                                                                                                                                                                                                                                                                        |
-| 2                    | HC-SR04 Ultrasonic Sensor                                                    | 1       | ![](media/7d1365ccda9dfeff4ba6624f9413877c.png)                                                                                                                                                                                                                                                                                                                                         |
-| 3                    | KEYES-2812-18R Module（welded with yellow curved pin）                       | 1       | ![](media/75a3a53f6230d6adc83af7caca154c03.png)                                                                                                                                                                                                                                                                                                                                        |
-| 4                    | KS0426 doesn’t include  the micro：bit                                       | 0       | ![](media/f499db4caac65277ceac4615fcfd7919.png)                                                                                                                                                                                                                                                                  |
-|                      | KS4019 has the micro：bit                                                    | 1       |                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Other Parts**      |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
-| 4                    | Acrylic Pack of 3 Pieces T=3MM                                               | 1       | ![](media/dea0ff702caa351d08680f50991c5ea5.png)                                                                                                                                                                                                                       |
-| 5                    | N20 Motor Wheel                                                              | 2       | ![](media/401c266d4f7828b0087fcdae7b75664d.png)                                                                                                                                                                                                                                                                                                                                        |
-| 6                    | Steel Universal Wheel W22\*H15MM                                             | 1       | ![](media/8a89cf0066a0982aba60f9df94e0d108.png)                                                                                                                                                                                                                                                                                                                                         |
-| 7                    | Insulation Gasket                                                            | 3       | ![](media/f057a723df8ee517cd5c0dfe0804ed40.png)                                                                                                                                                                                                                                   |
-| 8                    | USB Cable A/MICRO OD: 4.0 black L=1.2m eco-friendly                          | 1       | ![](media/58215d477756bb5d00a820ec35212860.png)                                                                                                                                                                                                                                                                                                                                        |
-| 9                    | Male to Female Jumper Wire 10CM Random Color                                 | 3       | ![](media/2f212634a5375485d53417c7c4211065.png)                                                                                                                                                                                                                                                                                                                                   |
-| 10                   | Male to Female Jumper Wire 15CM Random Color                                 | 4       | ![](media/3098fcbb361f77ebf780cef5fd08f776.png)                                                                                                                                                                                                                                                                                                                                   |
-|  **Screws and Nuts** |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
-| 11                   | M1.6\*10MM Round Head Screw                                                  | 8       | ![](media/dd8c8e093cad90c20223bbb4201a8a84.png)                                                                                                                                                                                                                                                                                   |
-| 12                   | M3\*6MM Round Head Screw                                                     | 8       | ![](media/4684fbb52f1a1792575135d322e8ba56.png)                                                                                                                                                                                                                                                                                                                                         |
-| 13                   | M1.6 304 Stainless Steel Nut                                                 | 8       | ![](media/94cdbb6e111a9d855f1aae020dec739d.png)                                                                                                                                                                                         |
-| 14                   | M3\*35MM Double Pass Hex Copper Pillar                                       | 4       | ![](media/3afb59ac412a04d678b1eaea05dcadaf.png)                                                                                                                                                                                                                                                                                                                                         |
-| 15                   | M3\*10MM Flat Head Screw                                                     | 1       | ![](media/dffc226ef2a9b9d9aca2d3e8e00e43d0.png)                                                                                                                                                                                                                                                                                                                                         |
-| 16                   | M3 Nickel Plated Nut                                                         | 1       | ![](media/94cdbb6e111a9d855f1aae020dec739d.png)                                                                                                                                                                                                                                                                                                                                         |
-| 17                   | M2.5\*10MM Round Head Screw                                                  | 2       | ![](media/4e55c01786fa1284367ffdd79055267d.png)                                                                                                                                                                                                                                                                                           |
-| 18                   | M2\*12MM Round Head Screw                                                    | 8       | ![](media/b577f1b505375340314de95ce069d8f7.png) |
-| 19                   | M2 Nickel-plated Nut                                                         | 6       | ![](media/202faee9e61a24722dce9d11f898641d.png)                                                                                               |
-| **Tools**            |                                                                              |         |                                                                                                                                                                                                                                                                                                                                                                                          |
-| 20                   | 3\*40MM Cross Screw Driver                                                   | 1       | ![](media/46a93a6e7cb420fe3f0c4f0e09c2f739.png)                                                                                                                                                                                                                                                                                                                                         |
-| 21                   | Map                                                                          | 1       | ![](media/cd0cfc34fe82e88dc9b146f6f227dce1.png)                                                                                                                                                                                                                                                                                                                                          |
-| 22                   | 2\*40MM Screw Driver                                                         | 1       | ![](media/2f8ee1756b6ef39b73bda1f0a8f40aa5.png)                                                                                                                                                                                                                                                                                                                                          |
-
-# 4.Micro:bit
-
-Micro:bit, created by the BBC, aims at helping kids over 11 to gain insight to
-programming. It is home to abundant resources like a 5\*5 LED, two programmable
-buttons, compass, Micro USB port and Bluetooth module. It is the half size of
-credit card, but mighty. Additionally, it can applied to video games, robots,
-science experiments and so on.
-
-The Micro:bit V2 consists of a touch sensitive logo, a MEMS microphone and a
-buzzer at the back. The wave-shaped golden edge connectors can be attached to
-other sensors or modules by alligator clips. Besides, you can press reset/power
-button to activate sleep mode, so that the power consumption can be reduced. Its
-CPU performance is better than V.15.
-
-**Pin Diagram**
-
-![](media/ae1ddaa286548b2e6414a8284f85325d.png)
-
-![](media/9352fb7236d081fdb3f8040624c7e2c6.jpeg)
-
-Micro:bit V1.5
-
-![](media/9cdd94349b69eaa1c7e810cdf0c5b850.png)
-
-The reset/ power button can reset the running program.
-
-Hold it down, then the indicator will get dark; and release it, the sleep mode
-will be activated.
-
-More details:
-
-https://tech.microbit.org/hardware/
-
-https://microbit.org/new-microbit/
-
-https://www.microbit.org/get-started/user-guide/overview/
-
-https://microbit.org/get-started/user-guide/features-in-depth/
-
-![](media/827b32e06f290b4aa4425c60b335d5b2.png)
-![](media/b5770e594a2ddcd690e51700a17d5867.png)
-
-Official Website：<https://tech.microbit.org/hardware/edgeconnector/>
-
-<https://microbit.org/guide/hardware/pins/>
-
-**Precaution:**
-
-1.  We suggest that you put silicone case on V2 Micro:bit to refrain from short
-    circuit.
-
-1.  The drive capacity of IO ports is weak; therefore, don’t connect component
-    with large current(like MG995 servo, DC motor) in case V2 board gets
-    damaged. You have to know about the working current of the component you
-    use. Generally, we will attach a Micro:bit expansion board.
-
-c. Supply power via USB and 3V battery socket. And it doesn’t support 5V
-sensors. If you have to use 5V sensors, you can use Micro:bit expansion board.
-
-d. The shared pins like P3, P4, P6, P7 and P10 of LED dot matrix should be
-disabled in the code (use block
-![](media/25744916130b026bc999e14cc6c02055.png)); otherwise, there will be
-errors on LED dot matrix and data.
-
-e. Don’t attach 3.3V batteries to battery socket; otherwise, V2 will be damaged.
-
-f. Don’t operate it on metal products.
-
-In terms of programming environment, the BBC provides the online programming
-website：<https://microbit.org/code/>
-
-## 4.1. Install the Driver of Micro:bit：
-
-Enter the Micro:bit Driver folder (link: <https://fs.keyestudio.com/KS0426>
-
-) to check how to install the driver of Micro:bit V2
-
-![](media/d607930d19c29d9bb8b9ef346f0fd1b8.png)
-
-## 4.2 Keyestudio Micro:bit Mini Smart Car
-
-![](media/a9cc0d75562e4618912dedbf63187b25.png)
-
-![](media/b28ea0d37a5f8b627a50c666b2a699bf.png)
-
-![](media/566b710657272b16e99a89e81efbd9c8.png)
-
-**Rechargeable Battery**
-
-The keyestudio micro:bit smart car is supplied power by a 18650 battery or USB
-port. The battery is rechargeable and maximum current is 700 mA.
-
-Note: the battery is not included in this kit.
-
-**Indicator**
-
-Show the working status of keyestudio micro:bit smart car.
-
-| LED  | Name                                               | LED on              | LED off                 |
-|------|----------------------------------------------------|---------------------|-------------------------|
-| D2   | Left line tracking sensor                          | Detect white object | Detect black line       |
-| D6   | Right line tracking sensor                         | Detect white object | Detect black line       |
-| SIG1 | Left obstacle avoidance sensor                     | Detect obstacles    | No obstacle is detected |
-| SIG2 | Right obstacle avoidance sensor                    | Detect obstacles    | No obstacle is detected |
-| POW  | Power indicator                                    |                     |                         |
-| LED1 | LED1 is always on when the power is fully charged. |                     |                         |
-
-**Potentiometer**
-
-| **Potentiometer**                   | Adjust sensitivity                                                                                                                                                      |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RP1 Right line tracking sensor      | Put a paper under the bottom of car, adjust the RP1. When D2 is on, then pull up the universal wheels for 0.5cm off the paper. The sensitivity is set well if D2 is off |
-| RP2 Left line tracking sensor       | Refer to RP1                                                                                                                                                            |
-| RP5 Left obstacle avoidance sensor  | Keep left obstacle avoidance sensor about 5cm away the obstacle. Adjust the RP5 and SIGI is on. The sensitivity is set well if the obstacle is removed and SIGI is off  |
-| RP9 Right obstacle avoidance sensor | Keep right obstacle avoidance sensor about 5cm away the obstacle. Adjust the RP9 and SIG2 is on. The sensitivity is set well if the obstacle is removed and SIG2 is off |
-
-## 4.3 Assembly Guide
-
-Note: Peel the plastic film off the board first when installing the smart car.
-To be honest, we never intend to send wood to you.
-
-1.  Install base plate of micro:bit mini smart car
-
-(Take out the two self-tapping screws of universal wheels first, we provide the
-2 pcs longer self-tapping screws to replace them, and don’t screw them too
-tightly）
-
-![](media/57a841b01a55a438ffaef06ac434284f.png)
-
-![](media/71b56f02ef45948d3894ad109e43f93f.png)
-
-1.  Mount the top board of micro:bit smart car
-
-（Note：Install it after peeling off the protective film on acrylic board.)
-
-![](media/c7fa4472baea4d0e37b455df73157eea.png)
-
-![](media/fe1f3b2cd61aecaa9bc791e3979ce1df.png)
-
-![](media/e22aafb2489ad51007fcb9db8288d5c2.png)
-
-![](media/92eb8237454225c02e13758a9f547def.png)
-
-![](media/279e8fe7316b71dec009f40b0d545bc1.png)
-
-1.  Wiring
-
-| Sensors/modules            | Pins | Shield |
-|----------------------------|------|--------|
-|  KEYES-2812-18R module     | G    | G      |
-|                            | V    | V      |
-|                            | D1   | D5     |
-|  HC-SR04 Ultrasonic Sensor | Gnd  | G      |
-|                            | Echo | D15    |
-|                            | Trig | D14    |
-|                            | Vcc  | 5V     |
-
-![](media/775de7507637b62f496254b4bb04e7a8.png)
-
-![](media/4a80b19ba5b7fe13158b7f7f91ad3f03.png)
-
-1.  Install Micro:bit Board
-
-![](media/9e328d9fe311e82ca81c65e766451689.png)
-
-![](media/f6a4f4779cbde2216a765d2eab3b4526.png)
-
-# 5. Code and Programming
+##  Getting Started With Makecode
 
 We take Windows system as example to show you.
 
@@ -351,7 +109,7 @@ Micro: Bit programs in other languages. Go to the link:
 the link: <https://microbit.org/projects/>, to find something you want to have a
 go.
 
-## 5.1 Makecode
+### 5.1 Makecode
 
 Browse <https://makecode.microbit.org/> and enter Makecode online editor.
 
@@ -369,7 +127,7 @@ There are block“on start”and“forever”in the code editing area.
 After power on or reset, “on start”means that command blocks in the code are
 only executed once, however,“forever”implies that code runs cyclically.
 
-## 5.2 Quick Download
+### 5.2 Quick Download
 
 As mentioned before, if your computer is Windows 10 and you have downloaded the
 APP MakeCode for micro:bit to write programs, the program written can be quickly
@@ -414,7 +172,7 @@ board.
 
 ![](media/ce919e72cca0b62ceaac7c86bda98499.png)
 
-## 5.3 How to Import Makecode Extension Library
+### 5.3 How to Import Makecode Extension Library
 
 Next, we need to import K-bit extension library for using in further lessons.
 
@@ -475,14 +233,14 @@ program.
 
 ![](media/62e3d5377618c75ef36fa5ad2991351c.png)
 
-## 5.4 Resources and Code
+### 5.4 Resources and Code
 
 Download resources and code of tool package: <https://fs.keyestudio.com/KS0426>
 
 After the tool package is downloaded and unzipped, a file named KS0426 Microbit
 Mini Smart Robot Car V2 will be generated. It can be placed everywhere.
 
-## 5.5 Import Code
+### 5.5 Import Code
 
 We provide every program with hex file. You could import it directly or program
 in Makecode blocks area, therefore, the extension library must be added.[(How to
@@ -531,7 +289,7 @@ software.
 
 Let’s install it firstly.
 
-## 5.6 CoolTerm Installation
+### 5.6 CoolTerm Installation
 
 CoolTerm program is used to read the serial communication.
 
@@ -570,12 +328,12 @@ The functions of each button on the Toolbar are listed below:
 | ![](media/36e13c266fd4b9723d9db40fe30cd203.png) | Displays the Terminal Data in Hexadecimal Format  |
 | ![](media/b505c71c3344036730b1d67f0c62a354.png)        | Displays the Help Window                          |
 
-# **6. Projects**
+##  Projects
 
 The projects from 6.1 to 6.12 are the introduction of LED matrix and built-in
 sensors on the micro:bit board
 
-## 6.1: Heartbeat
+### 1: Heartbeat
 
 1.  **Description：**
 
@@ -631,7 +389,7 @@ display ![](media/14472c7e1c80818889bb47bfc709f053.png) and
 
 If download unsuccessfully, disconnect micro:bit and reboot it
 
-## 6.2: Light Up A Single LED
+### 2: Light Up A Single LED
 
 ![](media/8c3f540a07aab97e1608ba8770837f7b.png)
 
@@ -726,7 +484,7 @@ Upload program and plug in micro:bit via USB port, the LED at coordinate point
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.3: 5 x 5 LED Dot Matrix
+### 3: 5 x 5 LED Dot Matrix
 
 ![](media/8c3f540a07aab97e1608ba8770837f7b.png)
 
@@ -864,7 +622,7 @@ display![](media/d4e278da768e447ed344d581e671f57a.png),“Hello!”,
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.4: Programmable Buttons
+### 4: Programmable Buttons
 
 ![](media/06be84fb11b1fd07cd0cbb392132b903.png)
 
@@ -1027,7 +785,7 @@ added, when B is pressed, a row of LEDs are deducted.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.5: Temperature Measurement
+### 5: Temperature Measurement
 
 1.  **Description：**
 
@@ -1190,7 +948,7 @@ pattern![](media/f2705fbc4886efcfaac96589ca255f66.png) will appear.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.6: Micro:bit’s Compass
+### 6: Micro:bit’s Compass
 
 ![](media/24c31bb0174e2ac672203e5c36c6875e.png)
 
@@ -1380,7 +1138,7 @@ board, the LED dot matrix displays the direction signs
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.7: Accelerometer
+### 7: Accelerometer
 
 ![](media/24c31bb0174e2ac672203e5c36c6875e.png)
 
@@ -1555,7 +1313,7 @@ not recommended for it may damage the main board.)
 Attention: if you’d like to try this function, you can also set the acceleration
 to 3g, 6g or 8g. But still ,we don not recommend.
 
-## 6.8: Detect Light Intensity by Micro:bit
+### 8: Detect Light Intensity by Micro:bit
 
 ![](media/8c3f540a07aab97e1608ba8770837f7b.png)
 
@@ -1643,7 +1401,7 @@ CoolTerm serial monitor displays the light intensity.
 
 ![](media/77a6de8ab9b171353693610a09f3a83c.png)
 
-## 6.9: Speaker
+### 9: Speaker
 
 ![](media/ac515b9ae8891dc32f368a29f194a2fb.png)
 
@@ -1705,7 +1463,7 @@ sound and display a music sign.
 
 ([How to download?](#A11) [How to quick download?](#A12))
 
-## 6.10: Touch Sensitive Logo
+### 10: Touch Sensitive Logo
 
 ![](media/644695850097c5ade080bb4848b4b481.png)
 
@@ -1803,7 +1561,7 @@ number will appear.
 
 ([How to download?](#A11) [How to quick download?](#A12))
 
-## 6.11: Microphone
+### 11: Microphone
 
 ![](media/7f0741158e734ff8449d5b87d5ba85f4.png)
 
@@ -1953,7 +1711,7 @@ below:
 When the button A is pressed, LED will show the detected maximum sound value and
 when you clap your hands, the LED matrix will a show bar graph.
 
-## 6.12: Bluetooth Wireless Communication
+### 12: Bluetooth Wireless Communication
 
 ![](media/55b2424d88ba1ba8a711c49418ca8dc6.png)
 
@@ -2069,7 +1827,7 @@ further lessons, we will conduct some expansion experiments
 Disconnect the power between the micro:bit and expansion board(slide POWER to
 OFF end) to avoid damaging the micro:bit.
 
-## 6.13: Passive Buzzer
+### 13: Passive Buzzer
 
 ![](media/da6ec0cad581a9429307efe57c566b70.png)
 
@@ -2239,7 +1997,7 @@ Joy” is played by passive buzzer
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.14: RGB Experiments
+### 14: RGB Experiments
 
 1.  **Description：**
 
@@ -2438,7 +2196,7 @@ micro:bit car, 2 RGB lights show different color cyclically.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.15: Light up KEYES-2812-18R Module
+### 15: Light up KEYES-2812-18R Module
 
 1.  **Description：**
 
@@ -2759,7 +2517,7 @@ one.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.16: Photoresistor
+### 16: Photoresistor
 
 1.  **Description：**
 
@@ -2961,7 +2719,7 @@ the light intensity of 18 RGB lights
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.17: Motor Driving
+### 17: Motor Driving
 
 1.  **Description：**
 
@@ -3283,9 +3041,9 @@ sensor are P11
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.18: Line Tracking Smart Car
+### 18: Line Tracking Smart Car
 
-6.18.1: Detect Line Tracking Sensor
+18.1: Detect Line Tracking Sensor
 
 ![](media/81a769b41214847d61628921b85d74ab.png)
 
@@ -3632,7 +3390,7 @@ CoolTerm serial monitor display the value of decimal system.
 
 ![](media/d23e57db56fabd5a0b5c2c7080432a62.jpeg)
 
-6.18.2: Line Tracking Smart Car
+18.2: Line Tracking Smart Car
 
 1.  **Description：**
 
@@ -3824,9 +3582,9 @@ tracking sensor.
 
 Avoid to test smart car under the strong light.
 
-## 6.19: Ultrasonic Follow Smart Car
+### 19: Ultrasonic Follow Smart Car
 
-6.19.1: Ultrasonic Ranging
+19.1: Ultrasonic Ranging
 
 **1. Description：**
 
@@ -4028,7 +3786,7 @@ CoolTerm serial monitor displays the distance value as follows:
 
 ![](media/c88ce484a935653373de5cdf72c727ed.png)
 
-6.19.2: Ultrasonic Follow Smart Car
+19.2: Ultrasonic Follow Smart Car
 
 ![](media/fd2f5e910e2ea77331bc82142fd08659.jpeg)
 
@@ -4262,9 +4020,9 @@ color.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.20: Obstacle Avoidance and Follow Smart Car
+### 20: Obstacle Avoidance and Follow Smart Car
 
-6.20.1: Obstacle Avoidance Function
+20.1: Obstacle Avoidance Function
 
 **1. Description：**
 
@@ -4468,7 +4226,7 @@ none of them detects the obstacle, the upward arrow is shown.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-6.20.2: Obstacle Avoidance Smart Car
+20.2: Obstacle Avoidance Smart Car
 
 1.  **Description：**
 
@@ -4889,9 +4647,9 @@ Car will follow the obstacle to move.
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-## 6.21: IR Remote Control Smart Car
+### 21: IR Remote Control Smart Car
 
-6.21.1: Decode IR Remote Control
+21.1: Decode IR Remote Control
 
 1.  **Description：**
 
@@ -5061,7 +4819,7 @@ The key value is displayed as for your reference:
 
 ![](media/a52aed8032b82cd11c95f34eea8a2a29.jpeg)
 
-6.21.2: IR Remote Control
+21.2: IR Remote Control
 
 1.  **Description：**
 
@@ -5278,9 +5036,9 @@ color.
 Note: the distance between IR remote control and IR receiving head of smart car
 are supposed less than 5m, during the test.
 
-## 6.22: Bluetooth Multi-purpose Smart Car
+### 22: Bluetooth Multi-purpose Smart Car
 
-6.22.1: Read Bluetooth Data
+22.1: Read Bluetooth Data
 
 1.  **Description：**
 
@@ -5490,7 +5248,7 @@ Through the test, we get the function of every icon, as shown below:
 
 ![](media/5b942e52b28749e7d4ac904627442500.png)
 
-6.22.2: Multi-purpose Smart Car
+22.2: Multi-purpose Smart Car
 
 1.  **Description：**
 
@@ -5568,7 +5326,7 @@ smart car via “keyes Bit Car”app
 
 ([How to download?](#A01) [How to quick download?](#_7.3.快速下载))
 
-# 7. Resources
+##  Resources
 
 Download test code, driver:
 

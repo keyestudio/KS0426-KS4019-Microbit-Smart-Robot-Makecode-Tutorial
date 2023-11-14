@@ -4,7 +4,9 @@
    :caption: KS0426 KS4019 Keyestudio Micro: bit Mini Smart Robot Car Kit V2
 
 
-   KS0426-KS4019.md
+   home.md
+   makecode.md
+   python.md
 
 
 
