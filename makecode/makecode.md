@@ -109,7 +109,7 @@ Micro: Bit programs in other languages. Go to the link:
 the link: <https://microbit.org/projects/>, to find something you want to have a
 go.
 
-### 5.1 Makecode
+ **5.1 Makecode**
 
 Browse <https://makecode.microbit.org/> and enter Makecode online editor.
 
@@ -127,7 +127,7 @@ There are block“on start”and“forever”in the code editing area.
 After power on or reset, “on start”means that command blocks in the code are
 only executed once, however,“forever”implies that code runs cyclically.
 
-### 5.2 Quick Download
+ **5.2 Quick Download**
 
 As mentioned before, if your computer is Windows 10 and you have downloaded the
 APP MakeCode for micro:bit to write programs, the program written can be quickly
@@ -172,7 +172,7 @@ board.
 
 ![](media/ce919e72cca0b62ceaac7c86bda98499.png)
 
-### 5.3 How to Import Makecode Extension Library
+ **5.3 How to Import Makecode Extension Library**
 
 Next, we need to import K-bit extension library for using in further lessons.
 
@@ -233,14 +233,14 @@ program.
 
 ![](media/62e3d5377618c75ef36fa5ad2991351c.png)
 
-### 5.4 Resources and Code
+ **5.4 Resources and Code**
 
 Download resources and code of tool package: <https://fs.keyestudio.com/KS0426>
 
 After the tool package is downloaded and unzipped, a file named KS0426 Microbit
 Mini Smart Robot Car V2 will be generated. It can be placed everywhere.
 
-### 5.5 Import Code
+ **5.5 Import Code**
 
 We provide every program with hex file. You could import it directly or program
 in Makecode blocks area, therefore, the extension library must be added.[(How to
@@ -289,7 +289,7 @@ software.
 
 Let’s install it firstly.
 
-### 5.6 CoolTerm Installation
+ **5.6 CoolTerm Installation**
 
 CoolTerm program is used to read the serial communication.
 
@@ -308,7 +308,7 @@ Download CoolTerm program:
 
 ![](media/e77548d01727e523e9e8c900d2fa962d.png)
 
-1.  Double-click ![](media/5f29eed25fc16602cfc0716f047c2da1.png)
+4.  Double-click ![](media/5f29eed25fc16602cfc0716f047c2da1.png)
 
 ![](media/74fd81c83f0c0a26b4e299b93ce4ede4.png)
 

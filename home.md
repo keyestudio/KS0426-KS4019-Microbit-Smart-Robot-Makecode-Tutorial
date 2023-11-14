@@ -150,7 +150,7 @@ f. Don’t operate it on metal products.
 In terms of programming environment, the BBC provides the online programming
 website：<https://microbit.org/code/>
 
-### 1.Install the Driver of Micro:bit：
+1. Install the Driver of Micro:bit：
 
 Enter the Micro:bit Driver folder (link: <https://fs.keyestudio.com/KS0426>
 
@@ -158,7 +158,7 @@ Enter the Micro:bit Driver folder (link: <https://fs.keyestudio.com/KS0426>
 
 ![](makecode/media/d607930d19c29d9bb8b9ef346f0fd1b8.png)
 
-### 2 Keyestudio Micro:bit Mini Smart Car
+ 2. Keyestudio Micro:bit Mini Smart Car
 
 ![](makecode/media/a9cc0d75562e4618912dedbf63187b25.png)
 
@@ -195,7 +195,7 @@ Show the working status of keyestudio micro:bit smart car.
 | RP5 Left obstacle avoidance sensor  | Keep left obstacle avoidance sensor about 5cm away the obstacle. Adjust the RP5 and SIGI is on. The sensitivity is set well if the obstacle is removed and SIGI is off  |
 | RP9 Right obstacle avoidance sensor | Keep right obstacle avoidance sensor about 5cm away the obstacle. Adjust the RP9 and SIG2 is on. The sensitivity is set well if the obstacle is removed and SIG2 is off |
 
-### 3 Assembly Guide
+ 3. Assembly Guide
 
 Note: Peel the plastic film off the board first when installing the smart car.
 To be honest, we never intend to send wood to you.
