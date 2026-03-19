@@ -50,7 +50,7 @@ Makecode online editor first, save code again then download it to micro:bit.**
 
 ## Kit list
 |     |      |    |    |
-| --  | --   | -- |        --         |                                  
+| --  | --   | -- |        --         |
 | 1                   |  Micro:bit Mini Smart Robot Car Shield V2  | 1       | ![](makecode/media/c59320656db3ef33f904aba2cebe8104.png)                                                                                                                                                                                                                                                                                                                                        |
 | 2                    | HC-SR04 Ultrasonic Sensor                                                    | 1       | ![](makecode/media/7d1365ccda9dfeff4ba6624f9413877c.png)                                                                                                                                                                                                                                                                                                                                         |
 | 3                    | KEYES-2812-18R Module（welded with yellow curved pin）                       | 1       | ![](makecode/media/75a3a53f6230d6adc83af7caca154c03.png)                                                                                                                                                                                                                                                                                                                                        |
@@ -78,6 +78,7 @@ Makecode online editor first, save code again then download it to micro:bit.**
 | 20                   | 3\*40MM Cross Screw Driver                                                   | 1       | ![](makecode/media/46a93a6e7cb420fe3f0c4f0e09c2f739.png)                                                                                                                                                                                                                                                                                                                                         |
 | 21                   | Map                                                                          | 1       | ![](makecode/media/cd0cfc34fe82e88dc9b146f6f227dce1.png)                                                                                                                                                                                                                                                                                                                                          |
 | 22                   | 2*40MM Screw Driver                                                         | 1       | ![](makecode/media/2f8ee1756b6ef39b73bda1f0a8f40aa5.png)                                                                                                                                                                                                                                                                                                                                          |
+| 23 | 18650 battery (self-provided) | 1 | ![41a45857-ff74-4fc4-b13b-3c96b10d3ad1](./media/41a45857-ff74-4fc4-b13b-3c96b10d3ad1.png) |
 
 ## Micro:bit
 
@@ -245,5 +246,4 @@ tightly）
 ![](makecode/media/9e328d9fe311e82ca81c65e766451689.png)
 
 ![](makecode/media/f6a4f4779cbde2216a765d2eab3b4526.png)
-
 
